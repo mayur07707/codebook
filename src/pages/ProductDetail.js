@@ -1,5 +1,5 @@
-import { toast } from "react-toastify"
 import { useEffect, useState } from "react"
+import { toast } from "react-toastify"
 import { useParams } from "react-router-dom"
 import { Rating } from "../components"
 import { useCart } from "../context"
